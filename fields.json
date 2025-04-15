@@ -1,0 +1,7 @@
+{
+  "header_quote": {
+    "label": "Header Quote",
+    "type": "text",
+    "default": "Welcome to our website!"
+  }
+}

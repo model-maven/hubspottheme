@@ -1,0 +1,23 @@
+{
+  "label": "CMS Practicum Theme",
+  "screenshot": "",
+  "author": {
+    "name": "Your Name",
+    "email": "you@example.com"
+  },
+  "css_assets": [
+    "css/style.css"
+  ],
+  "fields": {
+    "font_family": {
+      "label": "Font Family",
+      "type": "text",
+      "default": "Arial, sans-serif"
+    },
+    "accent_color": {
+      "label": "Accent Color",
+      "type": "color",
+      "default": "#0057ff"
+    }
+  }
+}
