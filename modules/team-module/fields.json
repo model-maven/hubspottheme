@@ -1,0 +1,21 @@
+{
+  "team_members": {
+    "type": "group",
+    "inline_help_text": "Add team members",
+    "repeating": true,
+    "children": {
+      "name": {
+        "type": "text",
+        "label": "Name"
+      },
+      "role": {
+        "type": "text",
+        "label": "Role"
+      },
+      "image": {
+        "type": "image",
+        "label": "Photo"
+      }
+    }
+  }
+}

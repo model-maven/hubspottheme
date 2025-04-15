@@ -1,0 +1,10 @@
+
+/* Base Theme Styles */
+body {
+  font-family: {{ theme.font_family }};
+  color: #333;
+}
+.header, .footer {
+  background-color: {{ theme.accent_color }};
+  padding: 1rem;
+}
